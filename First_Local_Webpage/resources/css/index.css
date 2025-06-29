@@ -1,0 +1,28 @@
+nav {
+    background-color: darkgray;
+    text-align: center;
+    padding: 15px;
+}
+nav li {
+    display: inline-block;
+    padding: 0 50px;
+    border: 1px solid black;
+    
+}
+nav li:hover {
+    background-color: white;
+    cursor: pointer;
+}
+.banner {
+    background-color: cadetblue;
+    color: white;
+    padding: 50px 0;
+    text-align: center;
+}
+h1 {
+    font-size: 36px;
+}
+#subscribe:hover {
+    cursor: pointer;
+    background-color: indianred;
+}
